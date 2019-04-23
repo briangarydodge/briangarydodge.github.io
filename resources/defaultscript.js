@@ -6,4 +6,11 @@ $(function() {
 
     $("#footerpane").load("./pages/footer.html");
 
+
+    $("#loadbutton").click(function() {
+
+        $("#contentpane").load("./pages/AxonTutorial.md");
+
+    });
+
 });
