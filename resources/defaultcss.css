@@ -16,7 +16,7 @@ h3 {
     padding: 0px;
     background-color: white;
     width: 100%;
-    height: 150px;
+    height: 100px;
     margin-bottom: 3px;
 }
 
@@ -25,7 +25,7 @@ h3 {
     padding: 0px;
     background-color: white;
     width: 100%;
-    height: 80%;
+    height: 800px;
     margin-bottom: 3px;
 }
 
@@ -35,4 +35,14 @@ h3 {
     background-color: white;
     width: 50;
     height: 100px;
+}
+
+.banner {
+
+    max-width: 100%;
+    border-radius: 3px;
+    border-style: solid;
+    border-color: darkslategrey;
+    border-width: 1px 1px 1px 1px;
+
 }
