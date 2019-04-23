@@ -13,4 +13,9 @@ $(function() {
 
     });
 
+    $(".linkitem").click(function() {
+        var item = $(this).attr("link");
+        alert("Clicked." + item);
+    });
+
 });
