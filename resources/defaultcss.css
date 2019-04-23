@@ -1,7 +1,12 @@
 body {
 
-    background-color: dimgray;
+    background-color: wheat;
+    margin: 0px;
 
+}
+
+h3 {
+    margin: 0px;
 }
 
 #headerpane {
